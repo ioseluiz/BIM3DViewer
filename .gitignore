@@ -4,3 +4,4 @@
 .envs/*
 staticfiles/
 !envs/.env.example
+__pycache__/
