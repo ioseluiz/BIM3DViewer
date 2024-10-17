@@ -31,11 +31,12 @@ class ObjectAdmin(admin.ModelAdmin):
             
             for x in csv_data:
                 fields = x.split(",")
+                print(fields)
                 # print(fields)
                 created = Object.objects.update_or_create(
                     number = fields[0],
                     object_name = fields[1],
-                    object_type = fields[2]
+                    object_type = fields[2].replace("\r","")
                 )
             url = reverse('admin:index')
             return HttpResponseRedirect(url)

@@ -19,7 +19,7 @@ import { DRACOLoader } from 'three/addons/loaders/DRACOLoader.js';
 
         },
         init: () => {
-
+            App.bindEvents();
         },
         bindEvents: () => {
             App.initializeData.model();
@@ -27,15 +27,22 @@ import { DRACOLoader } from 'three/addons/loaders/DRACOLoader.js';
         },
         initializeData: {
             model: () => {
+                console.log('Start model function');
                 let settings;
                 let model3D;
+                let model3DData;
                 let INTERSECTED;
                 let meshes = [];
 
                 let widthCanvas = App.htmlElements.container.offsetWidth;
                 let heightCanvas = App.htmlElements.container.offsetHeight;
 
+                console.log(widthCanvas);
+                console.log(heightCanvas);
+
                 // Parse data from views
+                console.log(modelData)
+                model3DData = JSON.parse(modelData);
 
                 const clock = new THREE.Clock();
 
@@ -68,16 +75,53 @@ import { DRACOLoader } from 'three/addons/loaders/DRACOLoader.js';
 
                 const objects = [];
 
-                loader.load(model, function (gltf) {
-                    model3D = gltf.scene;
+               loader.load(model, function( gltf ){
 
-                    model3D.traverse(function(child){
+                model3D = gltf.scene;
 
-                    })
+                model3D.traverse(function(child) {
+
+                    if (child.isMesh){
+                        if (child.material) {
+                            child.material = child.material.clone();
+                        }
+
+                        child.material.metalness = 0;
+                        meshes.push(child);
+
+                    }
 
 
 
                 })
+                model3D.position.set(0, 0,0);
+                model3D.scale.set( 1,1,1 );
+                scene.add( model3D );
+
+                renderer.setAnimationLoop(animate);
+
+
+
+               }, undefined, function(e){
+                console.error(e);
+               });
+
+               window.onresize = function () {
+                camera.aspect = widthCanvas / heightCanvas;
+                camera.updateProjectionMatrix();
+
+                renderer.setSize( widthCanvas, heightCanvas );
+               };
+
+               function animate() {
+                const delta = clock.getDelta();
+
+                renderer.render( scene, camera );
+
+               }
+               
+
+
 
 
             }
@@ -92,5 +136,6 @@ import { DRACOLoader } from 'three/addons/loaders/DRACOLoader.js';
             }
         }
     }
+    App.init();
 
 })();

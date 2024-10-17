@@ -1,0 +1,235 @@
+1,Basic Roof Cubierta e = 0.05 465781,Roof
+2,Basic Roof Cubierta e = 0.05 467735,Roof
+3,Basic Roof Cubierta e = 0.05 470236,Roof
+4,Cast-In-Place Stair Stair 440700,Stair
+5,Cast-In-Place Stair Stair 440700_440845,Stair
+6,Cast-In-Place Stair Stair 440700_440953,Stair
+7,Cast-In-Place Stair Stair 440700_440955,Stair
+8,Cast-In-Place Stair Stair 448953,Stair
+9,Cast-In-Place Stair Stair 448953_448954,Stair
+10,Cast-In-Place Stair Stair 448953_448956,Stair
+11,Cast-In-Place Stair Stair 448953_448958,Stair
+12,Columna Cuadrada (H.A.) 30x30 419847,Concrete Column
+13,Columna Cuadrada (H.A.) 30x30 421503,Concrete Column
+14,Columna Cuadrada (H.A.) 30x30 421604,Concrete Column
+15,Columna Cuadrada (H.A.) 30x30 421696,Concrete Column
+16,Columna Cuadrada (H.A.) 30x30 421768,Concrete Column
+17,Columna Cuadrada (H.A.) 30x30 421831,Concrete Column
+18,Columna Cuadrada (H.A.) 30x30 421845,Concrete Column
+19,Columna Cuadrada (H.A.) 30x30 421929,Concrete Column
+20,Columna Cuadrada (H.A.) 30x30 421978,Concrete Column
+21,Columna Cuadrada (H.A.) 30x30 421979,Concrete Column
+22,Columna Cuadrada (H.A.) 30x30 421980,Concrete Column
+23,Columna Cuadrada (H.A.) 30x30 421981,Concrete Column
+24,Columna Cuadrada (H.A.) 30x30 423465,Concrete Column
+25,Columna Cuadrada (H.A.) 30x30 423466,Concrete Column
+26,Columna Cuadrada (H.A.) 30x30 423467,Concrete Column
+27,Columna Cuadrada (H.A.) 30x30 423468,Concrete Column
+28,Columna Cuadrada (H.A.) 30x30 423469,Concrete Column
+29,Columna Cuadrada (H.A.) 30x30 423470,Concrete Column
+30,Columna Cuadrada (H.A.) 30x30 423471,Concrete Column
+31,Columna Cuadrada (H.A.) 30x30 423472,Concrete Column
+32,Columna Cuadrada (H.A.) 30x30 423473,Concrete Column
+33,Columna Cuadrada (H.A.) 30x30 423474,Concrete Column
+34,Columna Cuadrada (H.A.) 30x30 423475,Concrete Column
+35,Columna Cuadrada (H.A.) 30x30 423476,Concrete Column
+36,Columna Cuadrada (H.A.) 30x30 425170,Concrete Column
+37,Columna Cuadrada (H.A.) 30x30 425171,Concrete Column
+38,Columna Cuadrada (H.A.) 30x30 431554,Concrete Column
+39,Columna Cuadrada (H.A.) 30x30 431555,Concrete Column
+40,Columna Cuadrada (H.A.) 30x30 431556,Concrete Column
+41,Columna Cuadrada (H.A.) 30x30 431557,Concrete Column
+42,Columna Cuadrada (H.A.) 30x30 431558,Concrete Column
+43,Columna Cuadrada (H.A.) 30x30 431559,Concrete Column
+44,Columna Cuadrada (H.A.) 30x30 431560,Concrete Column
+45,Columna Cuadrada (H.A.) 30x30 431561,Concrete Column
+46,Columna Cuadrada (H.A.) 30x30 431562,Concrete Column
+47,Columna Cuadrada (H.A.) 30x30 431563,Concrete Column
+48,Columna Cuadrada (H.A.) 30x30 431564,Concrete Column
+49,Columna Cuadrada (H.A.) 30x30 431565,Concrete Column
+50,Columna Cuadrada (H.A.) 30x30 431580,Concrete Column
+51,Floor Contrapiso e = 0.30 449092,Floor
+52,Floor Losa e = 0.10m 431310,Slab
+53,Floor Losa e = 0.10m 431977,Slab
+54,Floor Losa e = 0.10m 435115,Slab
+55,Floor Losa e = 0.10m 435559,Slab
+56,M_HSS-Seccion estructural hueca Tubo 8x8x10mm 456259,Steel Column
+57,M_HSS-Seccion estructural hueca Tubo 8x8x10mm 456289,Steel Column
+58,M_HSS-Seccion estructural hueca Tubo 8x8x10mm 456326,Steel Column
+59,M_HSS-Seccion estructural hueca Tubo 8x8x10mm 456588,Steel Column
+60,M_HSS-Seccion estructural hueca Tubo 8x8x10mm 456685,Steel Column
+61,M_HSS-Seccion estructural hueca Tubo 8x8x10mm 460297,Steel Column
+62,M_HSS-Seccion estructural hueca Tubo 8x8x10mm 460362,Steel Column
+63,M_HSS-Seccion estructural hueca Tubo 8x8x10mm 460974,Steel Column
+64,M_HSS-Seccion estructural hueca Tubo 8x8x10mm 461013,Steel Column
+65,M_HSS-Seccion estructural hueca Tubo 8x8x10mm 461600,Steel Column
+66,M_HSS-Seccion estructural hueca Tubo 8x8x10mm 461698,Steel Column
+67,M_HSS-Seccion estructural hueca Tubo 8x8x10mm 461771,Steel Column
+68,M_HSS-Seccion estructural hueca Tubo 8x8x10mm 462576,Steel Column
+69,M_HSS-Seccion estructural hueca Tubo 8x8x10mm 462690,Steel Column
+70,M_HSS-Seccion estructural hueca Tubo 8x8x10mm 462772,Steel Column
+71,M_HSS-Seccion estructural hueca Tubo 8x8x10mm 462857,Steel Column
+72,M_HSS-Seccion estructural hueca Tubo 8x8x10mm 463047,Steel Column
+73,M_HSS-Seccion estructural hueca Tubo 8x8x10mm 463320,Steel Column
+74,M_HSS-Seccion estructural hueca Tubo 8x8x10mm 463435,Steel Column
+75,M_HSS-Seccion estructural hueca Tubo 8x8x10mm 456259,Steel Column
+76,M_HSS-Seccion estructural hueca Tubo 8x8x10mm 456289,Steel Column
+77,M_HSS-Seccion estructural hueca Tubo 8x8x10mm 456326,Steel Column
+78,M_HSS-Seccion estructural hueca Tubo 8x8x10mm 456588,Steel Column
+79,M_HSS-Seccion estructural hueca Tubo 8x8x10mm 456685,Steel Column
+80,M_HSS-Seccion estructural hueca Tubo 8x8x10mm 460297,Steel Column
+81,M_HSS-Seccion estructural hueca Tubo 8x8x10mm 460362,Steel Column
+82,M_HSS-Seccion estructural hueca Tubo 8x8x10mm 460974,Steel Column
+83,M_HSS-Seccion estructural hueca Tubo 8x8x10mm 461013,Steel Column
+84,M_HSS-Seccion estructural hueca Tubo 8x8x10mm 461600,Steel Column
+85,M_HSS-Seccion estructural hueca Tubo 8x8x10mm 461698,Steel Column
+86,M_HSS-Seccion estructural hueca Tubo 8x8x10mm 461771,Steel Column
+87,M_HSS-Seccion estructural hueca Tubo 8x8x10mm 462576,Steel Column
+88,M_HSS-Seccion estructural hueca Tubo 8x8x10mm 462690,Steel Column
+89,M_HSS-Seccion estructural hueca Tubo 8x8x10mm 462772,Steel Column
+90,M_HSS-Seccion estructural hueca Tubo 8x8x10mm 462857,Steel Column
+91,M_HSS-Seccion estructural hueca Tubo 8x8x10mm 463047,Steel Column
+92,M_HSS-Seccion estructural hueca Tubo 8x8x10mm 463320,Steel Column
+93,M_HSS-Seccion estructural hueca Tubo 8x8x10mm 463435,Steel Column
+94,M_HSS-Seccion estructural hueca-Pilar Tubo 8x8x10mm 451360,Steel Column
+95,M_HSS-Seccion estructural hueca-Pilar Tubo 8x8x10mm 452132,Steel Column
+96,M_HSS-Seccion estructural hueca-Pilar Tubo 8x8x10mm 452922,Steel Column
+97,M_HSS-Seccion estructural hueca-Pilar Tubo 8x8x10mm 453579,Steel Column
+98,M_HSS-Seccion estructural hueca-Pilar Tubo 8x8x10mm 454185,Steel Column
+99,M_HSS-Seccion estructural hueca-Pilar Tubo 8x8x10mm 454464,Steel Column
+100,M_HSS-Seccion estructural hueca-Pilar Tubo 8x8x10mm 454474,Steel Column
+101,M_HSS-Seccion estructural hueca-Pilar Tubo 8x8x10mm 459474,Steel Column
+102,M_HSS-Seccion estructural hueca-Pilar Tubo 8x8x10mm 460012,Steel Column
+103,M_HSS-Seccion estructural hueca-Pilar Tubo 8x8x10mm 460023,Steel Column
+104,M_HSS-Seccion estructural hueca-Pilar Tubo 8x8x10mm 462449,Steel Column
+105,M_HSS-Seccion estructural hueca-Pilar Tubo 8x8x10mm 462460,Steel Column
+106,M_HSS-Seccion estructural hueca-Pilar Tubo 8x8x10mm 463175,Steel Column
+107,M_HSS-Seccion estructural hueca-Pilar Tubo 8x8x10mm 451360,Steel Column
+108,M_HSS-Seccion estructural hueca-Pilar Tubo 8x8x10mm 452132,Steel Column
+109,M_HSS-Seccion estructural hueca-Pilar Tubo 8x8x10mm 452922,Steel Column
+110,M_HSS-Seccion estructural hueca-Pilar Tubo 8x8x10mm 453579,Steel Column
+111,M_HSS-Seccion estructural hueca-Pilar Tubo 8x8x10mm 454185,Steel Column
+112,M_HSS-Seccion estructural hueca-Pilar Tubo 8x8x10mm 454464,Steel Column
+113,M_HSS-Seccion estructural hueca-Pilar Tubo 8x8x10mm 454474,Steel Column
+114,M_HSS-Seccion estructural hueca-Pilar Tubo 8x8x10mm 459474,Steel Column
+115,M_HSS-Seccion estructural hueca-Pilar Tubo 8x8x10mm 460012,Steel Column
+116,M_HSS-Seccion estructural hueca-Pilar Tubo 8x8x10mm 460023,Steel Column
+117,M_HSS-Seccion estructural hueca-Pilar Tubo 8x8x10mm 462449,Steel Column
+118,M_HSS-Seccion estructural hueca-Pilar Tubo 8x8x10mm 462460,Steel Column
+119,M_HSS-Seccion estructural hueca-Pilar Tubo 8x8x10mm 463175,Steel Column
+120,Monolithic Landing Grosor 200 mm 440955,Stair
+121,Monolithic Landing Grosor 200 mm 448958,Stair
+122,Monolithic Run Tramo por Defecto 440845,Stair
+123,Monolithic Run Tramo por Defecto 440953,Stair
+124,Monolithic Run Tramo por Defecto 448954,Stair
+125,Monolithic Run Tramo por Defecto 448956,Stair
+126,PFC-Canal de ala paralela Canal C (Agua) 465051,Concrete Beam
+127,Viga Rectangular (H.A.) Nervio 10x15 431836,Concrete Beam
+128,Viga Rectangular (H.A.) Nervio 10x15 431837,Concrete Beam
+129,Viga Rectangular (H.A.) Nervio 10x15 431838,Concrete Beam
+130,Viga Rectangular (H.A.) Nervio 10x15 431839,Concrete Beam
+131,Viga Rectangular (H.A.) Nervio 10x15 431840,Concrete Beam
+132,Viga Rectangular (H.A.) Nervio 10x15 431851,Concrete Beam
+133,Viga Rectangular (H.A.) Nervio 10x15 431852,Concrete Beam
+134,Viga Rectangular (H.A.) Nervio 10x15 431853,Concrete Beam
+135,Viga Rectangular (H.A.) Nervio 10x15 431854,Concrete Beam
+136,Viga Rectangular (H.A.) Nervio 10x15 431855,Concrete Beam
+137,Viga Rectangular (H.A.) Nervio 10x15 431866,Concrete Beam
+138,Viga Rectangular (H.A.) Nervio 10x15 431867,Concrete Beam
+139,Viga Rectangular (H.A.) Nervio 10x15 431868,Concrete Beam
+140,Viga Rectangular (H.A.) Nervio 10x15 431869,Concrete Beam
+141,Viga Rectangular (H.A.) Nervio 10x15 431870,Concrete Beam
+142,Viga Rectangular (H.A.) Nervio 10x15 431881,Concrete Beam
+143,Viga Rectangular (H.A.) Nervio 10x15 431882,Concrete Beam
+144,Viga Rectangular (H.A.) Nervio 10x15 431883,Concrete Beam
+145,Viga Rectangular (H.A.) Nervio 10x15 431884,Concrete Beam
+146,Viga Rectangular (H.A.) Nervio 10x15 431885,Concrete Beam
+147,Viga Rectangular (H.A.) Nervio 10x15 431886,Concrete Beam
+148,Viga Rectangular (H.A.) Nervio 10x15 431887,Concrete Beam
+149,Viga Rectangular (H.A.) Nervio 10x15 431897,Concrete Beam
+150,Viga Rectangular (H.A.) Nervio 10x15 431898,Concrete Beam
+151,Viga Rectangular (H.A.) Nervio 10x15 431899,Concrete Beam
+152,Viga Rectangular (H.A.) Nervio 10x15 431900,Concrete Beam
+153,Viga Rectangular (H.A.) Nervio 10x15 431901,Concrete Beam
+154,Viga Rectangular (H.A.) Nervio 10x15 431902,Concrete Beam
+155,Viga Rectangular (H.A.) Nervio 10x15 431903,Concrete Beam
+156,Viga Rectangular (H.A.) Nervio 10x15 431913,Concrete Beam
+157,Viga Rectangular (H.A.) Nervio 10x15 431914,Concrete Beam
+158,Viga Rectangular (H.A.) Nervio 10x15 431915,Concrete Beam
+159,Viga Rectangular (H.A.) Nervio 10x15 431916,Concrete Beam
+160,Viga Rectangular (H.A.) Nervio 10x15 431917,Concrete Beam
+161,Viga Rectangular (H.A.) Nervio 10x15 431918,Concrete Beam
+162,Viga Rectangular (H.A.) Nervio 10x15 431919,Concrete Beam
+163,Viga Rectangular (H.A.) Nervio 10x15 431935,Concrete Beam
+164,Viga Rectangular (H.A.) V1 25x30 422207,Concrete Beam
+165,Viga Rectangular (H.A.) V1 25x30 422310,Concrete Beam
+166,Viga Rectangular (H.A.) V1 25x30 422364,Concrete Beam
+167,Viga Rectangular (H.A.) V1 25x30 422402,Concrete Beam
+168,Viga Rectangular (H.A.) V1 25x30 422516,Concrete Beam
+169,Viga Rectangular (H.A.) V1 25x30 422536,Concrete Beam
+170,Viga Rectangular (H.A.) V1 25x30 422625,Concrete Beam
+171,Viga Rectangular (H.A.) V1 25x30 422691,Concrete Beam
+172,Viga Rectangular (H.A.) V1 25x30 422768,Concrete Beam
+173,Viga Rectangular (H.A.) V1 25x30 422844,Concrete Beam
+174,Viga Rectangular (H.A.) V1 25x30 422979,Concrete Beam
+175,Viga Rectangular (H.A.) V1 25x30 423006,Concrete Beam
+176,Viga Rectangular (H.A.) V1 25x30 423038,Concrete Beam
+177,Viga Rectangular (H.A.) V1 25x30 423115,Concrete Beam
+178,Viga Rectangular (H.A.) V1 25x30 423181,Concrete Beam
+179,Viga Rectangular (H.A.) V1 25x30 423182,Concrete Beam
+180,Viga Rectangular (H.A.) V1 25x30 423194,Concrete Beam
+181,Viga Rectangular (H.A.) V1 25x30 423195,Concrete Beam
+182,Viga Rectangular (H.A.) V2 30x30 423599,Concrete Beam
+183,Viga Rectangular (H.A.) V2 30x30 423657,Concrete Beam
+184,Viga Rectangular (H.A.) V2 30x30 423714,Concrete Beam
+185,Viga Rectangular (H.A.) V2 30x30 423766,Concrete Beam
+186,Viga Rectangular (H.A.) V2 30x30 423808,Concrete Beam
+187,Viga Rectangular (H.A.) V2 30x30 423844,Concrete Beam
+188,Viga Rectangular (H.A.) V2 30x30 424084,Concrete Beam
+189,Viga Rectangular (H.A.) V2 30x30 424106,Concrete Beam
+190,Viga Rectangular (H.A.) V2 30x30 424181,Concrete Beam
+191,Viga Rectangular (H.A.) V2 30x30 424215,Concrete Beam
+192,Viga Rectangular (H.A.) V2 30x30 424624,Concrete Beam
+193,Viga Rectangular (H.A.) V2 30x30 424683,Concrete Beam
+194,Viga Rectangular (H.A.) V2 30x30 424763,Concrete Beam
+195,Viga Rectangular (H.A.) V2 30x30 424817,Concrete Beam
+196,Viga Rectangular (H.A.) V2 30x30 425475,Concrete Beam
+197,Viga Rectangular (H.A.) V2 30x30 425520,Concrete Beam
+198,Viga Rectangular (H.A.) V2 30x30 426946,Concrete Beam
+199,Viga Rectangular (H.A.) V2 30x30 427032,Concrete Beam
+200,Viga Rectangular (H.A.) V2 30x30 427075,Concrete Beam
+201,Viga Rectangular (H.A.) V2 30x30 427121,Concrete Beam
+202,Viga Rectangular (H.A.) V2 30x30 431566,Concrete Beam
+203,Viga Rectangular (H.A.) V2 30x30 431567,Concrete Beam
+204,Viga Rectangular (H.A.) V2 30x30 431568,Concrete Beam
+205,Viga Rectangular (H.A.) V2 30x30 431569,Concrete Beam
+206,Viga Rectangular (H.A.) V2 30x30 431570,Concrete Beam
+207,Viga Rectangular (H.A.) V2 30x30 431571,Concrete Beam
+208,Viga Rectangular (H.A.) V2 30x30 431572,Concrete Beam
+209,Viga Rectangular (H.A.) V2 30x30 431573,Concrete Beam
+210,Viga Rectangular (H.A.) V2 30x30 431574,Concrete Beam
+211,Viga Rectangular (H.A.) V2 30x30 431575,Concrete Beam
+212,Viga Rectangular (H.A.) V2 30x30 431576,Concrete Beam
+213,Viga Rectangular (H.A.) V2 30x30 431577,Concrete Beam
+214,Viga Rectangular (H.A.) V2 30x30 431578,Concrete Beam
+215,Viga Rectangular (H.A.) V2 30x30 431579,Concrete Beam
+216,Viga Rectangular (H.A.) V2 30x30 431581,Concrete Beam
+217,Viga Rectangular (H.A.) V2 30x30 431582,Concrete Beam
+218,Viga Rectangular (H.A.) V2 30x30 431583,Concrete Beam
+219,Viga Rectangular (H.A.) V2 30x30 431584,Concrete Beam
+220,Viga Rectangular (H.A.) V2 30x30 431585,Concrete Beam
+221,Viga Rectangular (H.A.) V2 30x30 431586,Concrete Beam
+222,Zapata Aislada 1.0x1.0x0.30 445875,Isolated Footing
+223,Zapata Aislada 1.20x1.20x0.30 416249,Isolated Footing
+224,Zapata Aislada 1.20x1.20x0.30 416587,Isolated Footing
+225,Zapata Aislada 1.20x1.20x0.30 416726,Isolated Footing
+226,Zapata Aislada 1.20x1.20x0.30 416845,Isolated Footing
+227,Zapata Aislada 1.20x1.20x0.30 417052,Isolated Footing
+228,Zapata Aislada 1.20x1.20x0.30 417149,Isolated Footing
+229,Zapata Aislada 1.20x1.20x0.30 417362,Isolated Footing
+230,Zapata Aislada 1.20x1.20x0.30 417481,Isolated Footing
+231,Zapata Aislada 1.20x1.20x0.30 417582,Isolated Footing
+232,Zapata Aislada 1.20x1.20x0.30 417683,Isolated Footing
+233,Zapata Aislada 1.20x1.20x0.30 418672,Isolated Footing
+234,Zapata Aislada 1.20x1.20x0.30 418725,Isolated Footing
+235,Zapata Aislada 1.20x1.20x0.30 425169,Isolated Footing

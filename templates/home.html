@@ -16,7 +16,9 @@
 
 
 {% block content %}
+   
     <div class="container">
+        <header>{{ file }}</header>
         <main id="canvas-container">
             <div id="moveGui"></div>
         </main>
@@ -25,10 +27,8 @@
 
     <script  language="javascript">
         let model = "{% static '3Dmodels/' %}{{ file|safe }}.glb";
-        let cdsData = '{{ cds_data|safe }}'
-        let pourData = '{{ data_pours|safe }}'
-    
-        console.log(model);
+        let modelData = '{{ model_objects|safe }}'
+        
     </script>
-    <script type="module" src={% static 'js/main_cds.js' %}></script>
+    <script type="module" src={% static 'js/main.js' %}></script>
 {% endblock content %}
