@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!--CSS-->
+
+    <!-- {% block custom_style %}
+    <link rel="stylesheet" href="{% static 'css/style.css'%}">
+    {% endblock custom_style %} -->
+
+    <!--Three JS-->
+    {% block viewer %}{% endblock viewer %}
+
+    <title>{% block title %}{% endblock title %}</title>
+</head>
+<body >
+    {% block content %}{% endblock content %}
+    
+    
+</body>
+</html>

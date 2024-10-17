@@ -1,0 +1,34 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block title%}3D Model {% endblock title %}
+
+{% block viewer %}
+<script type="importmap">
+    {
+        "imports": {
+        "three": "https://cdn.jsdelivr.net/npm/three@v0.149.0/build/three.module.js",
+        "three/addons/": "https://cdn.jsdelivr.net/npm/three@v0.149.0/examples/jsm/"
+        }
+    }
+    </script>
+{% endblock viewer %}
+
+
+{% block content %}
+    <div class="container">
+        <main id="canvas-container">
+            <div id="moveGui"></div>
+        </main>
+
+    </div>
+
+    <script  language="javascript">
+        let model = "{% static '3Dmodels/' %}{{ file|safe }}.glb";
+        let cdsData = '{{ cds_data|safe }}'
+        let pourData = '{{ data_pours|safe }}'
+    
+        console.log(model);
+    </script>
+    <script type="module" src={% static 'js/main_cds.js' %}></script>
+{% endblock content %}
