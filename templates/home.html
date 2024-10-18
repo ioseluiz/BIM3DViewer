@@ -1,27 +1,32 @@
 {% extends 'base.html' %}
 {% load static %}
 
-{% block title%}3D Model {% endblock title %}
+{% block title%}My BIM Model {% endblock title %}
+
+{% block custom_style %} 
+       <link rel="stylesheet" href="{% static 'css/home.css'%}">
+{% endblock custom_style %}
 
 {% block viewer %}
 <script type="importmap">
     {
-        "imports": {
-        "three": "https://cdn.jsdelivr.net/npm/three@v0.149.0/build/three.module.js",
-        "three/addons/": "https://cdn.jsdelivr.net/npm/three@v0.149.0/examples/jsm/"
-        }
+      "imports": {
+        "three": "https://cdn.jsdelivr.net/npm/three@0.169.0/build/three.module.js",
+        "three/addons/": "https://cdn.jsdelivr.net/npm/three@0.169.0/examples/jsm/"
+      }
     }
-    </script>
+  </script>
 {% endblock viewer %}
 
 
 {% block content %}
    
     <div class="container">
-        <header>{{ file }}</header>
+        <header class="header-title"><h2>Modelo BIM de Casa</h2></header>
         <main id="canvas-container">
             <div id="moveGui"></div>
         </main>
+        <div class="analytics"></div>
 
     </div>
 

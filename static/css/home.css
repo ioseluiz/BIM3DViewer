@@ -1,0 +1,55 @@
+.container {
+    display: grid;
+    grid-template-areas:
+    "header header"
+    "content content"
+    "analytics analytics";
+
+    grid-template-rows: 70px 2fr 2fr;
+    grid-template-columns: 1fr;
+    row-gap: 16px;
+    column-gap: 4px;
+    border: 1px;
+    padding: 6px;
+    min-height: 100vh;
+    box-sizing: border-box;
+}
+
+header {
+    grid-area: header;
+    /* border: 2px solid #dd0808; */
+    /* background-color: #ff6666; */
+}
+
+main {
+    grid-area: content;
+    border: 2px solid #6f09e5;
+    background-color: #b880f7;
+  
+  }
+
+  .header-title {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .analytics {
+    grid-area: analytics;
+    /* grid-column-end: span 2; */
+    border: 2px solid #cb4e0d;
+    background-color: #f7f380;
+    display: grid;
+    justify-items: center;
+    grid-template-areas:
+      "lifts keyinfo plot";
+    grid-template-columns: 2fr 2fr 3fr;
+    grid-template-rows: 1fr;
+  
+  }
+
+  #moveGui{
+    position: absolute;
+      top: 102px;
+      left: 14px;
+  }

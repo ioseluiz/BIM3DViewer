@@ -14,7 +14,6 @@ import { DRACOLoader } from 'three/addons/loaders/DRACOLoader.js';
     let App = {
         htmlElements: {
             container: document.getElementById('canvas-container'),
-            panelContainer: document.getElementById('moveGui'),
 
 
 
@@ -29,9 +28,7 @@ import { DRACOLoader } from 'three/addons/loaders/DRACOLoader.js';
         initializeData: {
             model: () => {
                 console.log('Start model function');
-                
-                // Boiler Plate Code
-               
+                let settings;
                 let model3D;
                 let model3DData;
                 let INTERSECTED;
@@ -40,8 +37,11 @@ import { DRACOLoader } from 'three/addons/loaders/DRACOLoader.js';
                 let widthCanvas = App.htmlElements.container.offsetWidth;
                 let heightCanvas = App.htmlElements.container.offsetHeight;
 
+                console.log(widthCanvas);
+                console.log(heightCanvas);
+
                 // Parse data from views
-                // console.log(modelData)
+                console.log(modelData)
                 model3DData = JSON.parse(modelData);
 
                 const clock = new THREE.Clock();
@@ -106,8 +106,6 @@ import { DRACOLoader } from 'three/addons/loaders/DRACOLoader.js';
                 console.error(e);
                });
 
-               createPanel(model3D);
-
                window.onresize = function () {
                 camera.aspect = widthCanvas / heightCanvas;
                 camera.updateProjectionMatrix();
@@ -118,44 +116,24 @@ import { DRACOLoader } from 'three/addons/loaders/DRACOLoader.js';
                function animate() {
                 const delta = clock.getDelta();
 
-                controls.update();
-
                 renderer.render( scene, camera );
 
                }
+               
 
-               function createPanel (model3D){
-                
-                let settings;
-                const panel = new GUI( {width: 200, autoPlace: false });
-                let panelContainer = App.htmlElements.panelContainer;
-                panelContainer.appendChild(panel.domElement);
-                panel.close();
-                const folder1 = panel.addFolder('visibility');
-                folder1.close();
 
-                settings = {
-                    'show model': true,
-                }
 
-                folder1.add(settings, 'show model').onChange(showModel);
-
-            }
-
-            function showModel (visibility){
-                
-                model3D.visible = visibility;
-            }
 
             }
             
         },
         utils:{
-           
-
-           
-
-
+            traverseModel: (child) => {
+                if (child.isMesh){
+                    child.material = child.material.clone();
+                    
+                }
+            }
         }
     }
     App.init();
