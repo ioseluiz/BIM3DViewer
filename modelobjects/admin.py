@@ -11,7 +11,7 @@ class CsvImportForm(forms.Form):
     csv_upload = forms.FileField()
 
 class ObjectAdmin(admin.ModelAdmin):
-    list_display = ('number', 'object_name', 'object_type')
+    list_display = ('number', 'object_name', 'description','object_type')
     
     def get_urls(self):
         urls = super().get_urls()
@@ -36,7 +36,8 @@ class ObjectAdmin(admin.ModelAdmin):
                 created = Object.objects.update_or_create(
                     number = fields[0],
                     object_name = fields[1],
-                    object_type = fields[2].replace("\r","")
+                    description = fields[2],
+                    object_type = fields[3].replace("\r","")
                 )
             url = reverse('admin:index')
             return HttpResponseRedirect(url)

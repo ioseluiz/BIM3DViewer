@@ -41,16 +41,22 @@ import { DRACOLoader } from 'three/addons/loaders/DRACOLoader.js';
                 let heightCanvas = App.htmlElements.container.offsetHeight;
 
                 // Parse data from views
-                // console.log(modelData)
+                console.log(objectTypes);
                 model3DData = JSON.parse(modelData);
+                // console.log(model3DData);
 
                 const clock = new THREE.Clock();
+
+                const raycaster = new THREE.Raycaster()
+                const pointer = new THREE.Vector2()
 
                 const renderer = new THREE.WebGLRenderer( {antialias: true });
                 renderer.setPixelRatio( window.devicePixelRatio );
                 renderer.setSize( widthCanvas, heightCanvas );
 
                 App.htmlElements.container.appendChild( renderer.domElement );
+
+                document.addEventListener( 'pointermove', onPointerMove );
 
                 const scene = new THREE.Scene();
                 scene.background = new THREE.Color( 0xbfe3dd );
@@ -80,17 +86,46 @@ import { DRACOLoader } from 'three/addons/loaders/DRACOLoader.js';
                 model3D = gltf.scene;
 
                 model3D.traverse(function(child) {
-
+                   
                     if (child.isMesh){
+                        
                         if (child.material) {
                             child.material = child.material.clone();
                         }
 
-                        child.material.metalness = 0;
-                        meshes.push(child);
+                    child.material.metalness = 0;
+                    meshes.push(child);
+                    let dataObject;
 
+                    dataObject = App.utils.getObjectData(child.name, model3DData);
+                    // console.log(dataObject);
+                    child.userData = dataObject;
+                    // console.log(child.userData.objectType);
+                    if (child.userData.objectType == "Isolated Footing"){
+                        child.material.color.setHex( 0xffff00);
+                    }
+                    if (child.userData.objectType == "Concrete Beam"){
+                        child.material.color.setHex( 0xffc0cb);
+                    }
+                    if (child.userData.objectType == "Steel Section"){
+                        child.material.color.setHex( 0x0000ff);
+                    }
+                    if (child.userData.objectType == "Roof"){
+                        child.material.color.setHex( 0x06402b);
+                    }
+                    if (child.userData.objectType == "Floor"){
+                        child.material.color.setHex( 0x808080);
+                    }
+                    if (child.userData.objectType == "Concrete Column"){
+                        child.material.color.setHex( 0xffa500);
+                    }
+                    if (child.userData.objectType == "Stair"){
+                        child.material.color.setHex( 0x7b3f00);
                     }
 
+
+                    }
+                   
 
 
                 })
@@ -114,11 +149,21 @@ import { DRACOLoader } from 'three/addons/loaders/DRACOLoader.js';
 
                 renderer.setSize( widthCanvas, heightCanvas );
                };
+            
 
                function animate() {
                 const delta = clock.getDelta();
 
                 controls.update();
+                raycaster.setFromCamera(pointer, camera);
+                const intersects = raycaster.intersectObjects(meshes, false);
+                // console.log(intersects)
+                if (intersects.length>0){
+                	for (let i=0; i<intersects.length;i++){
+                		console.log(intersects[i].object.name)
+                	}
+                }
+
 
                 renderer.render( scene, camera );
 
@@ -147,10 +192,47 @@ import { DRACOLoader } from 'three/addons/loaders/DRACOLoader.js';
                 model3D.visible = visibility;
             }
 
+            function onPointerMove(event) { 
+                const rect = renderer.domElement.getBoundingClientRect()
+                // console.log(rect)
+                pointer.x = ((event.clientX - rect.left) / (rect.width)) * 2 - 1;
+                pointer.y = -((event.clientY - rect.top) / (rect.height)) * 2 + 1
+                
+            }
+
+            
+
             }
             
         },
         utils:{
+            getObjectData: (objectName, objectsData)=>{
+                // console.log(objectName);
+                let number;
+                let name;
+                let description;
+                let objectType
+                for (let i=0; i<objectsData.length; i++){
+                    if (objectName == objectsData[i].object_name){
+                        number = objectsData[i].number;
+                        description = objectsData[i].description;
+                        objectType =objectsData[i].object_type;
+                        return {
+                            number: number,
+                            objectName: objectName,
+                            description: description,
+                            objectType: objectType,
+                        }
+                    }
+                }
+                return {
+                    number: "",
+                    objectName: objectName,
+                    description: "",
+                    objectType: ""
+                }
+
+            },
            
 
            

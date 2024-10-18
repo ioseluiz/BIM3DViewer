@@ -1,235 +1,203 @@
-1,Basic Roof Cubierta e = 0.05 465781,Roof
-2,Basic Roof Cubierta e = 0.05 467735,Roof
-3,Basic Roof Cubierta e = 0.05 470236,Roof
-4,Cast-In-Place Stair Stair 440700,Stair
-5,Cast-In-Place Stair Stair 440700_440845,Stair
-6,Cast-In-Place Stair Stair 440700_440953,Stair
-7,Cast-In-Place Stair Stair 440700_440955,Stair
-8,Cast-In-Place Stair Stair 448953,Stair
-9,Cast-In-Place Stair Stair 448953_448954,Stair
-10,Cast-In-Place Stair Stair 448953_448956,Stair
-11,Cast-In-Place Stair Stair 448953_448958,Stair
-12,Columna Cuadrada (H.A.) 30x30 419847,Concrete Column
-13,Columna Cuadrada (H.A.) 30x30 421503,Concrete Column
-14,Columna Cuadrada (H.A.) 30x30 421604,Concrete Column
-15,Columna Cuadrada (H.A.) 30x30 421696,Concrete Column
-16,Columna Cuadrada (H.A.) 30x30 421768,Concrete Column
-17,Columna Cuadrada (H.A.) 30x30 421831,Concrete Column
-18,Columna Cuadrada (H.A.) 30x30 421845,Concrete Column
-19,Columna Cuadrada (H.A.) 30x30 421929,Concrete Column
-20,Columna Cuadrada (H.A.) 30x30 421978,Concrete Column
-21,Columna Cuadrada (H.A.) 30x30 421979,Concrete Column
-22,Columna Cuadrada (H.A.) 30x30 421980,Concrete Column
-23,Columna Cuadrada (H.A.) 30x30 421981,Concrete Column
-24,Columna Cuadrada (H.A.) 30x30 423465,Concrete Column
-25,Columna Cuadrada (H.A.) 30x30 423466,Concrete Column
-26,Columna Cuadrada (H.A.) 30x30 423467,Concrete Column
-27,Columna Cuadrada (H.A.) 30x30 423468,Concrete Column
-28,Columna Cuadrada (H.A.) 30x30 423469,Concrete Column
-29,Columna Cuadrada (H.A.) 30x30 423470,Concrete Column
-30,Columna Cuadrada (H.A.) 30x30 423471,Concrete Column
-31,Columna Cuadrada (H.A.) 30x30 423472,Concrete Column
-32,Columna Cuadrada (H.A.) 30x30 423473,Concrete Column
-33,Columna Cuadrada (H.A.) 30x30 423474,Concrete Column
-34,Columna Cuadrada (H.A.) 30x30 423475,Concrete Column
-35,Columna Cuadrada (H.A.) 30x30 423476,Concrete Column
-36,Columna Cuadrada (H.A.) 30x30 425170,Concrete Column
-37,Columna Cuadrada (H.A.) 30x30 425171,Concrete Column
-38,Columna Cuadrada (H.A.) 30x30 431554,Concrete Column
-39,Columna Cuadrada (H.A.) 30x30 431555,Concrete Column
-40,Columna Cuadrada (H.A.) 30x30 431556,Concrete Column
-41,Columna Cuadrada (H.A.) 30x30 431557,Concrete Column
-42,Columna Cuadrada (H.A.) 30x30 431558,Concrete Column
-43,Columna Cuadrada (H.A.) 30x30 431559,Concrete Column
-44,Columna Cuadrada (H.A.) 30x30 431560,Concrete Column
-45,Columna Cuadrada (H.A.) 30x30 431561,Concrete Column
-46,Columna Cuadrada (H.A.) 30x30 431562,Concrete Column
-47,Columna Cuadrada (H.A.) 30x30 431563,Concrete Column
-48,Columna Cuadrada (H.A.) 30x30 431564,Concrete Column
-49,Columna Cuadrada (H.A.) 30x30 431565,Concrete Column
-50,Columna Cuadrada (H.A.) 30x30 431580,Concrete Column
-51,Floor Contrapiso e = 0.30 449092,Floor
-52,Floor Losa e = 0.10m 431310,Slab
-53,Floor Losa e = 0.10m 431977,Slab
-54,Floor Losa e = 0.10m 435115,Slab
-55,Floor Losa e = 0.10m 435559,Slab
-56,M_HSS-Seccion estructural hueca Tubo 8x8x10mm 456259,Steel Column
-57,M_HSS-Seccion estructural hueca Tubo 8x8x10mm 456289,Steel Column
-58,M_HSS-Seccion estructural hueca Tubo 8x8x10mm 456326,Steel Column
-59,M_HSS-Seccion estructural hueca Tubo 8x8x10mm 456588,Steel Column
-60,M_HSS-Seccion estructural hueca Tubo 8x8x10mm 456685,Steel Column
-61,M_HSS-Seccion estructural hueca Tubo 8x8x10mm 460297,Steel Column
-62,M_HSS-Seccion estructural hueca Tubo 8x8x10mm 460362,Steel Column
-63,M_HSS-Seccion estructural hueca Tubo 8x8x10mm 460974,Steel Column
-64,M_HSS-Seccion estructural hueca Tubo 8x8x10mm 461013,Steel Column
-65,M_HSS-Seccion estructural hueca Tubo 8x8x10mm 461600,Steel Column
-66,M_HSS-Seccion estructural hueca Tubo 8x8x10mm 461698,Steel Column
-67,M_HSS-Seccion estructural hueca Tubo 8x8x10mm 461771,Steel Column
-68,M_HSS-Seccion estructural hueca Tubo 8x8x10mm 462576,Steel Column
-69,M_HSS-Seccion estructural hueca Tubo 8x8x10mm 462690,Steel Column
-70,M_HSS-Seccion estructural hueca Tubo 8x8x10mm 462772,Steel Column
-71,M_HSS-Seccion estructural hueca Tubo 8x8x10mm 462857,Steel Column
-72,M_HSS-Seccion estructural hueca Tubo 8x8x10mm 463047,Steel Column
-73,M_HSS-Seccion estructural hueca Tubo 8x8x10mm 463320,Steel Column
-74,M_HSS-Seccion estructural hueca Tubo 8x8x10mm 463435,Steel Column
-75,M_HSS-Seccion estructural hueca Tubo 8x8x10mm 456259,Steel Column
-76,M_HSS-Seccion estructural hueca Tubo 8x8x10mm 456289,Steel Column
-77,M_HSS-Seccion estructural hueca Tubo 8x8x10mm 456326,Steel Column
-78,M_HSS-Seccion estructural hueca Tubo 8x8x10mm 456588,Steel Column
-79,M_HSS-Seccion estructural hueca Tubo 8x8x10mm 456685,Steel Column
-80,M_HSS-Seccion estructural hueca Tubo 8x8x10mm 460297,Steel Column
-81,M_HSS-Seccion estructural hueca Tubo 8x8x10mm 460362,Steel Column
-82,M_HSS-Seccion estructural hueca Tubo 8x8x10mm 460974,Steel Column
-83,M_HSS-Seccion estructural hueca Tubo 8x8x10mm 461013,Steel Column
-84,M_HSS-Seccion estructural hueca Tubo 8x8x10mm 461600,Steel Column
-85,M_HSS-Seccion estructural hueca Tubo 8x8x10mm 461698,Steel Column
-86,M_HSS-Seccion estructural hueca Tubo 8x8x10mm 461771,Steel Column
-87,M_HSS-Seccion estructural hueca Tubo 8x8x10mm 462576,Steel Column
-88,M_HSS-Seccion estructural hueca Tubo 8x8x10mm 462690,Steel Column
-89,M_HSS-Seccion estructural hueca Tubo 8x8x10mm 462772,Steel Column
-90,M_HSS-Seccion estructural hueca Tubo 8x8x10mm 462857,Steel Column
-91,M_HSS-Seccion estructural hueca Tubo 8x8x10mm 463047,Steel Column
-92,M_HSS-Seccion estructural hueca Tubo 8x8x10mm 463320,Steel Column
-93,M_HSS-Seccion estructural hueca Tubo 8x8x10mm 463435,Steel Column
-94,M_HSS-Seccion estructural hueca-Pilar Tubo 8x8x10mm 451360,Steel Column
-95,M_HSS-Seccion estructural hueca-Pilar Tubo 8x8x10mm 452132,Steel Column
-96,M_HSS-Seccion estructural hueca-Pilar Tubo 8x8x10mm 452922,Steel Column
-97,M_HSS-Seccion estructural hueca-Pilar Tubo 8x8x10mm 453579,Steel Column
-98,M_HSS-Seccion estructural hueca-Pilar Tubo 8x8x10mm 454185,Steel Column
-99,M_HSS-Seccion estructural hueca-Pilar Tubo 8x8x10mm 454464,Steel Column
-100,M_HSS-Seccion estructural hueca-Pilar Tubo 8x8x10mm 454474,Steel Column
-101,M_HSS-Seccion estructural hueca-Pilar Tubo 8x8x10mm 459474,Steel Column
-102,M_HSS-Seccion estructural hueca-Pilar Tubo 8x8x10mm 460012,Steel Column
-103,M_HSS-Seccion estructural hueca-Pilar Tubo 8x8x10mm 460023,Steel Column
-104,M_HSS-Seccion estructural hueca-Pilar Tubo 8x8x10mm 462449,Steel Column
-105,M_HSS-Seccion estructural hueca-Pilar Tubo 8x8x10mm 462460,Steel Column
-106,M_HSS-Seccion estructural hueca-Pilar Tubo 8x8x10mm 463175,Steel Column
-107,M_HSS-Seccion estructural hueca-Pilar Tubo 8x8x10mm 451360,Steel Column
-108,M_HSS-Seccion estructural hueca-Pilar Tubo 8x8x10mm 452132,Steel Column
-109,M_HSS-Seccion estructural hueca-Pilar Tubo 8x8x10mm 452922,Steel Column
-110,M_HSS-Seccion estructural hueca-Pilar Tubo 8x8x10mm 453579,Steel Column
-111,M_HSS-Seccion estructural hueca-Pilar Tubo 8x8x10mm 454185,Steel Column
-112,M_HSS-Seccion estructural hueca-Pilar Tubo 8x8x10mm 454464,Steel Column
-113,M_HSS-Seccion estructural hueca-Pilar Tubo 8x8x10mm 454474,Steel Column
-114,M_HSS-Seccion estructural hueca-Pilar Tubo 8x8x10mm 459474,Steel Column
-115,M_HSS-Seccion estructural hueca-Pilar Tubo 8x8x10mm 460012,Steel Column
-116,M_HSS-Seccion estructural hueca-Pilar Tubo 8x8x10mm 460023,Steel Column
-117,M_HSS-Seccion estructural hueca-Pilar Tubo 8x8x10mm 462449,Steel Column
-118,M_HSS-Seccion estructural hueca-Pilar Tubo 8x8x10mm 462460,Steel Column
-119,M_HSS-Seccion estructural hueca-Pilar Tubo 8x8x10mm 463175,Steel Column
-120,Monolithic Landing Grosor 200 mm 440955,Stair
-121,Monolithic Landing Grosor 200 mm 448958,Stair
-122,Monolithic Run Tramo por Defecto 440845,Stair
-123,Monolithic Run Tramo por Defecto 440953,Stair
-124,Monolithic Run Tramo por Defecto 448954,Stair
-125,Monolithic Run Tramo por Defecto 448956,Stair
-126,PFC-Canal de ala paralela Canal C (Agua) 465051,Concrete Beam
-127,Viga Rectangular (H.A.) Nervio 10x15 431836,Concrete Beam
-128,Viga Rectangular (H.A.) Nervio 10x15 431837,Concrete Beam
-129,Viga Rectangular (H.A.) Nervio 10x15 431838,Concrete Beam
-130,Viga Rectangular (H.A.) Nervio 10x15 431839,Concrete Beam
-131,Viga Rectangular (H.A.) Nervio 10x15 431840,Concrete Beam
-132,Viga Rectangular (H.A.) Nervio 10x15 431851,Concrete Beam
-133,Viga Rectangular (H.A.) Nervio 10x15 431852,Concrete Beam
-134,Viga Rectangular (H.A.) Nervio 10x15 431853,Concrete Beam
-135,Viga Rectangular (H.A.) Nervio 10x15 431854,Concrete Beam
-136,Viga Rectangular (H.A.) Nervio 10x15 431855,Concrete Beam
-137,Viga Rectangular (H.A.) Nervio 10x15 431866,Concrete Beam
-138,Viga Rectangular (H.A.) Nervio 10x15 431867,Concrete Beam
-139,Viga Rectangular (H.A.) Nervio 10x15 431868,Concrete Beam
-140,Viga Rectangular (H.A.) Nervio 10x15 431869,Concrete Beam
-141,Viga Rectangular (H.A.) Nervio 10x15 431870,Concrete Beam
-142,Viga Rectangular (H.A.) Nervio 10x15 431881,Concrete Beam
-143,Viga Rectangular (H.A.) Nervio 10x15 431882,Concrete Beam
-144,Viga Rectangular (H.A.) Nervio 10x15 431883,Concrete Beam
-145,Viga Rectangular (H.A.) Nervio 10x15 431884,Concrete Beam
-146,Viga Rectangular (H.A.) Nervio 10x15 431885,Concrete Beam
-147,Viga Rectangular (H.A.) Nervio 10x15 431886,Concrete Beam
-148,Viga Rectangular (H.A.) Nervio 10x15 431887,Concrete Beam
-149,Viga Rectangular (H.A.) Nervio 10x15 431897,Concrete Beam
-150,Viga Rectangular (H.A.) Nervio 10x15 431898,Concrete Beam
-151,Viga Rectangular (H.A.) Nervio 10x15 431899,Concrete Beam
-152,Viga Rectangular (H.A.) Nervio 10x15 431900,Concrete Beam
-153,Viga Rectangular (H.A.) Nervio 10x15 431901,Concrete Beam
-154,Viga Rectangular (H.A.) Nervio 10x15 431902,Concrete Beam
-155,Viga Rectangular (H.A.) Nervio 10x15 431903,Concrete Beam
-156,Viga Rectangular (H.A.) Nervio 10x15 431913,Concrete Beam
-157,Viga Rectangular (H.A.) Nervio 10x15 431914,Concrete Beam
-158,Viga Rectangular (H.A.) Nervio 10x15 431915,Concrete Beam
-159,Viga Rectangular (H.A.) Nervio 10x15 431916,Concrete Beam
-160,Viga Rectangular (H.A.) Nervio 10x15 431917,Concrete Beam
-161,Viga Rectangular (H.A.) Nervio 10x15 431918,Concrete Beam
-162,Viga Rectangular (H.A.) Nervio 10x15 431919,Concrete Beam
-163,Viga Rectangular (H.A.) Nervio 10x15 431935,Concrete Beam
-164,Viga Rectangular (H.A.) V1 25x30 422207,Concrete Beam
-165,Viga Rectangular (H.A.) V1 25x30 422310,Concrete Beam
-166,Viga Rectangular (H.A.) V1 25x30 422364,Concrete Beam
-167,Viga Rectangular (H.A.) V1 25x30 422402,Concrete Beam
-168,Viga Rectangular (H.A.) V1 25x30 422516,Concrete Beam
-169,Viga Rectangular (H.A.) V1 25x30 422536,Concrete Beam
-170,Viga Rectangular (H.A.) V1 25x30 422625,Concrete Beam
-171,Viga Rectangular (H.A.) V1 25x30 422691,Concrete Beam
-172,Viga Rectangular (H.A.) V1 25x30 422768,Concrete Beam
-173,Viga Rectangular (H.A.) V1 25x30 422844,Concrete Beam
-174,Viga Rectangular (H.A.) V1 25x30 422979,Concrete Beam
-175,Viga Rectangular (H.A.) V1 25x30 423006,Concrete Beam
-176,Viga Rectangular (H.A.) V1 25x30 423038,Concrete Beam
-177,Viga Rectangular (H.A.) V1 25x30 423115,Concrete Beam
-178,Viga Rectangular (H.A.) V1 25x30 423181,Concrete Beam
-179,Viga Rectangular (H.A.) V1 25x30 423182,Concrete Beam
-180,Viga Rectangular (H.A.) V1 25x30 423194,Concrete Beam
-181,Viga Rectangular (H.A.) V1 25x30 423195,Concrete Beam
-182,Viga Rectangular (H.A.) V2 30x30 423599,Concrete Beam
-183,Viga Rectangular (H.A.) V2 30x30 423657,Concrete Beam
-184,Viga Rectangular (H.A.) V2 30x30 423714,Concrete Beam
-185,Viga Rectangular (H.A.) V2 30x30 423766,Concrete Beam
-186,Viga Rectangular (H.A.) V2 30x30 423808,Concrete Beam
-187,Viga Rectangular (H.A.) V2 30x30 423844,Concrete Beam
-188,Viga Rectangular (H.A.) V2 30x30 424084,Concrete Beam
-189,Viga Rectangular (H.A.) V2 30x30 424106,Concrete Beam
-190,Viga Rectangular (H.A.) V2 30x30 424181,Concrete Beam
-191,Viga Rectangular (H.A.) V2 30x30 424215,Concrete Beam
-192,Viga Rectangular (H.A.) V2 30x30 424624,Concrete Beam
-193,Viga Rectangular (H.A.) V2 30x30 424683,Concrete Beam
-194,Viga Rectangular (H.A.) V2 30x30 424763,Concrete Beam
-195,Viga Rectangular (H.A.) V2 30x30 424817,Concrete Beam
-196,Viga Rectangular (H.A.) V2 30x30 425475,Concrete Beam
-197,Viga Rectangular (H.A.) V2 30x30 425520,Concrete Beam
-198,Viga Rectangular (H.A.) V2 30x30 426946,Concrete Beam
-199,Viga Rectangular (H.A.) V2 30x30 427032,Concrete Beam
-200,Viga Rectangular (H.A.) V2 30x30 427075,Concrete Beam
-201,Viga Rectangular (H.A.) V2 30x30 427121,Concrete Beam
-202,Viga Rectangular (H.A.) V2 30x30 431566,Concrete Beam
-203,Viga Rectangular (H.A.) V2 30x30 431567,Concrete Beam
-204,Viga Rectangular (H.A.) V2 30x30 431568,Concrete Beam
-205,Viga Rectangular (H.A.) V2 30x30 431569,Concrete Beam
-206,Viga Rectangular (H.A.) V2 30x30 431570,Concrete Beam
-207,Viga Rectangular (H.A.) V2 30x30 431571,Concrete Beam
-208,Viga Rectangular (H.A.) V2 30x30 431572,Concrete Beam
-209,Viga Rectangular (H.A.) V2 30x30 431573,Concrete Beam
-210,Viga Rectangular (H.A.) V2 30x30 431574,Concrete Beam
-211,Viga Rectangular (H.A.) V2 30x30 431575,Concrete Beam
-212,Viga Rectangular (H.A.) V2 30x30 431576,Concrete Beam
-213,Viga Rectangular (H.A.) V2 30x30 431577,Concrete Beam
-214,Viga Rectangular (H.A.) V2 30x30 431578,Concrete Beam
-215,Viga Rectangular (H.A.) V2 30x30 431579,Concrete Beam
-216,Viga Rectangular (H.A.) V2 30x30 431581,Concrete Beam
-217,Viga Rectangular (H.A.) V2 30x30 431582,Concrete Beam
-218,Viga Rectangular (H.A.) V2 30x30 431583,Concrete Beam
-219,Viga Rectangular (H.A.) V2 30x30 431584,Concrete Beam
-220,Viga Rectangular (H.A.) V2 30x30 431585,Concrete Beam
-221,Viga Rectangular (H.A.) V2 30x30 431586,Concrete Beam
-222,Zapata Aislada 1.0x1.0x0.30 445875,Isolated Footing
-223,Zapata Aislada 1.20x1.20x0.30 416249,Isolated Footing
-224,Zapata Aislada 1.20x1.20x0.30 416587,Isolated Footing
-225,Zapata Aislada 1.20x1.20x0.30 416726,Isolated Footing
-226,Zapata Aislada 1.20x1.20x0.30 416845,Isolated Footing
-227,Zapata Aislada 1.20x1.20x0.30 417052,Isolated Footing
-228,Zapata Aislada 1.20x1.20x0.30 417149,Isolated Footing
-229,Zapata Aislada 1.20x1.20x0.30 417362,Isolated Footing
-230,Zapata Aislada 1.20x1.20x0.30 417481,Isolated Footing
-231,Zapata Aislada 1.20x1.20x0.30 417582,Isolated Footing
-232,Zapata Aislada 1.20x1.20x0.30 417683,Isolated Footing
-233,Zapata Aislada 1.20x1.20x0.30 418672,Isolated Footing
-234,Zapata Aislada 1.20x1.20x0.30 418725,Isolated Footing
-235,Zapata Aislada 1.20x1.20x0.30 425169,Isolated Footing
+100,object_100,Columna_Cuadrada_(HA)_30x30_421768,Concrete Column
+101,object_101,Columna_Cuadrada_(HA)_30x30_421831,Concrete Column
+102,object_102,Columna_Cuadrada_(HA)_30x30_421845,Concrete Column
+103,object_103,Columna_Cuadrada_(HA)_30x30_421929,Concrete Column
+104,object_104,Columna_Cuadrada_(HA)_30x30_421978,Concrete Column
+105,object_105,Basic_Roof_Cubierta_e_=_005_470236,Roof
+106,object_106,Columna_Cuadrada_(HA)_30x30_421979,Concrete Column
+107,object_107,Columna_Cuadrada_(HA)_30x30_421980,Concrete Column
+108,object_108,Columna_Cuadrada_(HA)_30x30_421981,Concrete Column
+109,object_109,Columna_Cuadrada_(HA)_30x30_423465,Concrete Column
+110,object_110,Columna_Cuadrada_(HA)_30x30_423466,Concrete Column
+111,object_111,Columna_Cuadrada_(HA)_30x30_423467,Concrete Column
+112,object_112,Columna_Cuadrada_(HA)_30x30_423468,Concrete Column
+113,object_113,Columna_Cuadrada_(HA)_30x30_423469,Concrete Column
+114,object_114,Columna_Cuadrada_(HA)_30x30_423470,Concrete Column
+115,object_115,Columna_Cuadrada_(HA)_30x30_423471,Concrete Column
+116,object_116,Cast-In-Place_Stair_Stair_440700,Stair
+117,object_117,Columna_Cuadrada_(HA)_30x30_423472,Concrete Column
+118,object_118,Columna_Cuadrada_(HA)_30x30_423473,Concrete Column
+119,object_119,Columna_Cuadrada_(HA)_30x30_423474,Concrete Column
+120,object_120,Columna_Cuadrada_(HA)_30x30_423475,Concrete Column
+121,object_121,Columna_Cuadrada_(HA)_30x30_423476,Concrete Column
+122,object_122,Columna_Cuadrada_(HA)_30x30_425170,Concrete Column
+123,object_123,Columna_Cuadrada_(HA)_30x30_425171,Concrete Column
+124,object_124,Columna_Cuadrada_(HA)_30x30_431554,Concrete Column
+125,object_125,Columna_Cuadrada_(HA)_30x30_431555,Concrete Column
+126,object_126,Columna_Cuadrada_(HA)_30x30_431556,Concrete Column
+127,object_127,Cast-In-Place_Stair_Stair_440700,Stair
+128,object_128,Columna_Cuadrada_(HA)_30x30_431557,Concrete Column
+129,object_129,Columna_Cuadrada_(HA)_30x30_431558,Concrete Column
+130,object_130,Columna_Cuadrada_(HA)_30x30_431559,Concrete Column
+131,object_131,Columna_Cuadrada_(HA)_30x30_431560,Concrete Column
+132,object_132,Columna_Cuadrada_(HA)_30x30_431561,Concrete Column
+133,object_133,Columna_Cuadrada_(HA)_30x30_431562,Concrete Column
+134,object_134,Columna_Cuadrada_(HA)_30x30_431563,Concrete Column
+135,object_135,Columna_Cuadrada_(HA)_30x30_431564,Concrete Column
+136,object_136,Columna_Cuadrada_(HA)_30x30_431565,Concrete Column
+137,object_137,Columna_Cuadrada_(HA)_30x30_431580,Concrete Column
+138,object_138,Cast-In-Place_Stair_Stair_440700,Stair
+139,object_139,Floor_Contrapiso_e_=_030_449092,Floor
+140,object_140,Floor_Losa_e_=_010m_431310,Floor
+141,object_141,Floor_Losa_e_=_010m_431977,Floor
+142,object_142,Floor_Losa_e_=_010m_435115,Floor
+143,object_143,Floor_Losa_e_=_010m_435559,Floor
+144,object_144,M_HSS-Seccion_estructural_hueca_Tubo_8x8x10mm_456259,Steel Section
+145,object_145,M_HSS-Seccion_estructural_hueca_Tubo_8x8x10mm_456289,Steel Section
+146,object_146,M_HSS-Seccion_estructural_hueca_Tubo_8x8x10mm_456326,Steel Section
+147,object_147,M_HSS-Seccion_estructural_hueca_Tubo_8x8x10mm_456588,Steel Section
+148,object_148,M_HSS-Seccion_estructural_hueca_Tubo_8x8x10mm_456685,Steel Section
+149,object_149,Cast-In-Place_Stair_Stair_440700_440955,Stair
+150,object_150,M_HSS-Seccion_estructural_hueca_Tubo_8x8x10mm_460297,Steel Section
+151,object_151,M_HSS-Seccion_estructural_hueca_Tubo_8x8x10mm_460362,Steel Section
+152,object_152,M_HSS-Seccion_estructural_hueca_Tubo_8x8x10mm_460974,Steel Section
+153,object_153,M_HSS-Seccion_estructural_hueca_Tubo_8x8x10mm_461013,Steel Section
+154,object_154,M_HSS-Seccion_estructural_hueca_Tubo_8x8x10mm_461600,Steel Section
+155,object_155,M_HSS-Seccion_estructural_hueca_Tubo_8x8x10mm_461698,Steel Section
+156,object_156,M_HSS-Seccion_estructural_hueca_Tubo_8x8x10mm_461771,Steel Section
+157,object_157,M_HSS-Seccion_estructural_hueca_Tubo_8x8x10mm_462576,Steel Section
+158,object_158,M_HSS-Seccion_estructural_hueca_Tubo_8x8x10mm_462690,Steel Section
+159,object_159,M_HSS-Seccion_estructural_hueca_Tubo_8x8x10mm_462772,Steel Section
+160,object_160,Cast-In-Place_Stair_Stair_448953,Stair
+161,object_161,M_HSS-Seccion_estructural_hueca_Tubo_8x8x10mm_462857,Steel Section
+162,object_162,M_HSS-Seccion_estructural_hueca_Tubo_8x8x10mm_463047,Steel Section
+163,object_163,M_HSS-Seccion_estructural_hueca_Tubo_8x8x10mm_463320,Steel Section
+164,object_164,M_HSS-Seccion_estructural_hueca_Tubo_8x8x10mm_463435,Steel Section
+165,object_165,M_HSS-Seccion_estructural_hueca-Pilar_Tubo_8x8x10mm_451360,Steel Section
+166,object_166,M_HSS-Seccion_estructural_hueca-Pilar_Tubo_8x8x10mm_452132,Steel Section
+167,object_167,M_HSS-Seccion_estructural_hueca-Pilar_Tubo_8x8x10mm_452922,Steel Section
+168,object_168,M_HSS-Seccion_estructural_hueca-Pilar_Tubo_8x8x10mm_453579,Steel Section
+169,object_169,M_HSS-Seccion_estructural_hueca-Pilar_Tubo_8x8x10mm_454185,Steel Section
+170,object_170,M_HSS-Seccion_estructural_hueca-Pilar_Tubo_8x8x10mm_454464,Steel Section
+171,object_171,Cast-In-Place_Stair_Stair_448953_448954,Stair
+172,object_172,M_HSS-Seccion_estructural_hueca-Pilar_Tubo_8x8x10mm_454474,Steel Section
+173,object_173,M_HSS-Seccion_estructural_hueca-Pilar_Tubo_8x8x10mm_459474,Steel Section
+174,object_174,M_HSS-Seccion_estructural_hueca-Pilar_Tubo_8x8x10mm_460012,Steel Section
+175,object_175,M_HSS-Seccion_estructural_hueca-Pilar_Tubo_8x8x10mm_460023,Steel Section
+176,object_176,M_HSS-Seccion_estructural_hueca-Pilar_Tubo_8x8x10mm_462449,Steel Section
+177,object_177,M_HSS-Seccion_estructural_hueca-Pilar_Tubo_8x8x10mm_462460,Steel Section
+178,object_178,M_HSS-Seccion_estructural_hueca-Pilar_Tubo_8x8x10mm_463175,Steel Section
+179,object_179,Monolithic_Landing_Grosor_200_mm_440955,Stair
+180,object_180,Monolithic_Landing_Grosor_200_mm_448958,Stair
+181,object_181,Monolithic_Run_Tramo_por_Defecto_440845,Stair
+182,object_182,Cast-In-Place_Stair_Stair_448953_448956,Stair
+183,object_183,Monolithic_Run_Tramo_por_Defecto_440953,Stair
+184,object_184,Monolithic_Run_Tramo_por_Defecto_448954,Stair
+185,object_185,Monolithic_Run_Tramo_por_Defecto_448956,Stair
+186,object_186,Basic_Roof_Cubierta_e_=_005_465781,Roof
+187,object_187,Basic_Roof_Cubierta_e_=_005_467735,Roof
+188,object_188,Cast-In-Place_Stair_Stair_448953_448958,Stair
+189,object_189,Columna_Cuadrada_(HA)_30x30_419847,Concrete Column
+190,object_190,Columna_Cuadrada_(HA)_30x30_421503,Concrete Column
+191,object_191,Columna_Cuadrada_(HA)_30x30_421604,Concrete Column
+192,object_192,Columna_Cuadrada_(HA)_30x30_421696,Concrete Column
+193,object_193,PFC-Canal_de_ala_paralela_Canal_C_(Agua)_465051,Concrete Beam
+194,object_194,Viga_Rectangular_(HA)_Nervio_10x15_431836,Concrete Beam
+195,object_195,Viga_Rectangular_(HA)_Nervio_10x15_431837,Concrete Beam
+196,object_196,Viga_Rectangular_(HA)_Nervio_10x15_431838,Concrete Beam
+197,object_197,Viga_Rectangular_(HA)_Nervio_10x15_431839,Concrete Beam
+198,object_198,Viga_Rectangular_(HA)_Nervio_10x15_431840,Concrete Beam
+199,object_199,Viga_Rectangular_(HA)_Nervio_10x15_431851,Concrete Beam
+200,object_200,Viga_Rectangular_(HA)_Nervio_10x15_431852,Concrete Beam
+201,object_201,Viga_Rectangular_(HA)_Nervio_10x15_431853,Concrete Beam
+202,object_202,Viga_Rectangular_(HA)_Nervio_10x15_431854,Concrete Beam
+203,object_203,Viga_Rectangular_(HA)_Nervio_10x15_431855,Concrete Beam
+204,object_204,Viga_Rectangular_(HA)_Nervio_10x15_431866,Concrete Beam
+205,object_205,Viga_Rectangular_(HA)_Nervio_10x15_431867,Concrete Beam
+206,object_206,Viga_Rectangular_(HA)_Nervio_10x15_431868,Concrete Beam
+207,object_207,Viga_Rectangular_(HA)_Nervio_10x15_431869,Concrete Beam
+208,object_208,Viga_Rectangular_(HA)_Nervio_10x15_431870,Concrete Beam
+209,object_209,Viga_Rectangular_(HA)_Nervio_10x15_431881,Concrete Beam
+210,object_210,Viga_Rectangular_(HA)_Nervio_10x15_431882,Concrete Beam
+211,object_211,Viga_Rectangular_(HA)_Nervio_10x15_431883,Concrete Beam
+212,object_212,Viga_Rectangular_(HA)_Nervio_10x15_431884,Concrete Beam
+213,object_213,Viga_Rectangular_(HA)_Nervio_10x15_431885,Concrete Beam
+214,object_214,Viga_Rectangular_(HA)_Nervio_10x15_431886,Concrete Beam
+215,object_215,Viga_Rectangular_(HA)_Nervio_10x15_431887,Concrete Beam
+216,object_216,Viga_Rectangular_(HA)_Nervio_10x15_431897,Concrete Beam
+217,object_217,Viga_Rectangular_(HA)_Nervio_10x15_431898,Concrete Beam
+218,object_218,Viga_Rectangular_(HA)_Nervio_10x15_431899,Concrete Beam
+219,object_219,Viga_Rectangular_(HA)_Nervio_10x15_431900,Concrete Beam
+220,object_220,Viga_Rectangular_(HA)_Nervio_10x15_431901,Concrete Beam
+221,object_221,Viga_Rectangular_(HA)_Nervio_10x15_431902,Concrete Beam
+222,object_222,Viga_Rectangular_(HA)_Nervio_10x15_431903,Concrete Beam
+223,object_223,Viga_Rectangular_(HA)_Nervio_10x15_431913,Concrete Beam
+224,object_224,Viga_Rectangular_(HA)_Nervio_10x15_431914,Concrete Beam
+225,object_225,Viga_Rectangular_(HA)_Nervio_10x15_431915,Concrete Beam
+226,object_226,Viga_Rectangular_(HA)_Nervio_10x15_431916,Concrete Beam
+227,object_227,Viga_Rectangular_(HA)_Nervio_10x15_431917,Concrete Beam
+228,object_228,Viga_Rectangular_(HA)_Nervio_10x15_431918,Concrete Beam
+229,object_229,Viga_Rectangular_(HA)_Nervio_10x15_431919,Concrete Beam
+230,object_230,Viga_Rectangular_(HA)_Nervio_10x15_431935,Concrete Beam
+231,object_231,Viga_Rectangular_(HA)_V1_25x30_422207,Concrete Beam
+232,object_232,Viga_Rectangular_(HA)_V1_25x30_422310,Concrete Beam
+233,object_233,Viga_Rectangular_(HA)_V1_25x30_422364,Concrete Beam
+234,object_234,Viga_Rectangular_(HA)_V1_25x30_422402,Concrete Beam
+235,object_235,Viga_Rectangular_(HA)_V1_25x30_422516,Concrete Beam
+236,object_236,Viga_Rectangular_(HA)_V1_25x30_422536,Concrete Beam
+237,object_237,Viga_Rectangular_(HA)_V1_25x30_422625,Concrete Beam
+238,object_238,Viga_Rectangular_(HA)_V1_25x30_422691,Concrete Beam
+239,object_239,Viga_Rectangular_(HA)_V1_25x30_422768,Concrete Beam
+240,object_240,Viga_Rectangular_(HA)_V1_25x30_422844,Concrete Beam
+241,object_241,Viga_Rectangular_(HA)_V1_25x30_422979,Concrete Beam
+242,object_242,Viga_Rectangular_(HA)_V1_25x30_423006,Concrete Beam
+243,object_243,Viga_Rectangular_(HA)_V1_25x30_423038,Concrete Beam
+244,object_244,Viga_Rectangular_(HA)_V1_25x30_423115,Concrete Beam
+245,object_245,Viga_Rectangular_(HA)_V1_25x30_423181,Concrete Beam
+246,object_246,Viga_Rectangular_(HA)_V1_25x30_423182,Concrete Beam
+247,object_247,Viga_Rectangular_(HA)_V1_25x30_423194,Concrete Beam
+248,object_248,Viga_Rectangular_(HA)_V1_25x30_423195,Concrete Beam
+249,object_249,Viga_Rectangular_(HA)_V2_30x30_423599,Concrete Beam
+250,object_250,Viga_Rectangular_(HA)_V2_30x30_423657,Concrete Beam
+251,object_251,Viga_Rectangular_(HA)_V2_30x30_423714,Concrete Beam
+252,object_252,Viga_Rectangular_(HA)_V2_30x30_423766,Concrete Beam
+253,object_253,Viga_Rectangular_(HA)_V2_30x30_423808,Concrete Beam
+254,object_254,Viga_Rectangular_(HA)_V2_30x30_423844,Concrete Beam
+255,object_255,Viga_Rectangular_(HA)_V2_30x30_424084,Concrete Beam
+256,object_256,Viga_Rectangular_(HA)_V2_30x30_424106,Concrete Beam
+257,object_257,Viga_Rectangular_(HA)_V2_30x30_424181,Concrete Beam
+258,object_258,Viga_Rectangular_(HA)_V2_30x30_424215,Concrete Beam
+259,object_259,Viga_Rectangular_(HA)_V2_30x30_424624,Concrete Beam
+260,object_260,Viga_Rectangular_(HA)_V2_30x30_424683,Concrete Beam
+261,object_261,Viga_Rectangular_(HA)_V2_30x30_424763,Concrete Beam
+262,object_262,Viga_Rectangular_(HA)_V2_30x30_424817,Concrete Beam
+263,object_263,Viga_Rectangular_(HA)_V2_30x30_425475,Concrete Beam
+264,object_264,Viga_Rectangular_(HA)_V2_30x30_425520,Concrete Beam
+265,object_265,Viga_Rectangular_(HA)_V2_30x30_426946,Concrete Beam
+266,object_266,Viga_Rectangular_(HA)_V2_30x30_427032,Concrete Beam
+267,object_267,Viga_Rectangular_(HA)_V2_30x30_427075,Concrete Beam
+268,object_268,Viga_Rectangular_(HA)_V2_30x30_427121,Concrete Beam
+269,object_269,Viga_Rectangular_(HA)_V2_30x30_431566,Concrete Beam
+270,object_270,Viga_Rectangular_(HA)_V2_30x30_431567,Concrete Beam
+271,object_271,Viga_Rectangular_(HA)_V2_30x30_431568,Concrete Beam
+272,object_272,Viga_Rectangular_(HA)_V2_30x30_431569,Concrete Beam
+273,object_273,Viga_Rectangular_(HA)_V2_30x30_431570,Concrete Beam
+274,object_274,Viga_Rectangular_(HA)_V2_30x30_431571,Concrete Beam
+275,object_275,Viga_Rectangular_(HA)_V2_30x30_431572,Concrete Beam
+276,object_276,Viga_Rectangular_(HA)_V2_30x30_431573,Concrete Beam
+277,object_277,Viga_Rectangular_(HA)_V2_30x30_431574,Concrete Beam
+278,object_278,Viga_Rectangular_(HA)_V2_30x30_431575,Concrete Beam
+279,object_279,Viga_Rectangular_(HA)_V2_30x30_431576,Concrete Beam
+280,object_280,Viga_Rectangular_(HA)_V2_30x30_431577,Concrete Beam
+281,object_281,Viga_Rectangular_(HA)_V2_30x30_431578,Concrete Beam
+282,object_282,Viga_Rectangular_(HA)_V2_30x30_431579,Concrete Beam
+283,object_283,Viga_Rectangular_(HA)_V2_30x30_431581,Concrete Beam
+284,object_284,Viga_Rectangular_(HA)_V2_30x30_431582,Concrete Beam
+285,object_285,Viga_Rectangular_(HA)_V2_30x30_431583,Concrete Beam
+286,object_286,Viga_Rectangular_(HA)_V2_30x30_431584,Concrete Beam
+287,object_287,Viga_Rectangular_(HA)_V2_30x30_431585,Concrete Beam
+288,object_288,Viga_Rectangular_(HA)_V2_30x30_431586,Concrete Beam
+289,object_289,Zapata_Aislada_10x10x030_445875,Isolated Footing
+290,object_290,Zapata_Aislada_120x120x030_416249,Isolated Footing
+291,object_291,Zapata_Aislada_120x120x030_416587,Isolated Footing
+292,object_292,Zapata_Aislada_120x120x030_416726,Isolated Footing
+293,object_293,Zapata_Aislada_120x120x030_416845,Isolated Footing
+294,object_294,Zapata_Aislada_120x120x030_417052,Isolated Footing
+295,object_295,Zapata_Aislada_120x120x030_417149,Isolated Footing
+296,object_296,Zapata_Aislada_120x120x030_417362,Isolated Footing
+297,object_297,Zapata_Aislada_120x120x030_417481,Isolated Footing
+298,object_298,Zapata_Aislada_120x120x030_417582,Isolated Footing
+299,object_299,Zapata_Aislada_120x120x030_417683,Isolated Footing
+300,object_300,Zapata_Aislada_120x120x030_418672,Isolated Footing
+301,object_301,Zapata_Aislada_120x120x030_418725,Isolated Footing
+302,object_302,Zapata_Aislada_120x120x030_425169,Isolated Footing

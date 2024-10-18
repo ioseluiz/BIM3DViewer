@@ -33,6 +33,7 @@
     <script  language="javascript">
         let model = "{% static '3Dmodels/' %}{{ file|safe }}.glb";
         let modelData = '{{ model_objects|safe }}'
+        let objectTypes = "{{ object_types|safe}}"
         
     </script>
     <script type="module" src={% static 'js/main.js' %}></script>
